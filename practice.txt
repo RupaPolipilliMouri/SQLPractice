@@ -1,0 +1,63 @@
+Sub queries
+============
+
+procedures
+
+functions
+
+
+cursors
+========
+
+Pointers ti the rows in the table
+
+Read only
+=========
+
+you cannot update the data through cursor
+
+Non scrollable
+==============
+we can fetch only few rows in the determined order( means we cannot fetch the data in reverse order)
+Assnsitive
+===========
+cursor points to ctual data
+Insensitive
+==========
+cursor points to temporary copy of the data
+
+Steps to create the cursor in MySQL
+=================================
+1.OPEN THRE CURSOR
+2.FETCH THE CURSOR DATA INTO VARIABLE LIST
+3.CLOSE CURSOR
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
